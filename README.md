@@ -9,8 +9,3 @@ Small Python mini-project demonstrating an end-to-end pipeline for wearable sens
 5) Compute cadence (steps/min) and movement frequency (Hz)  
 6) Save a plot + JSON summary metrics
 
-## How to run
-### 1) Create & activate a virtual environment
-
-python -m venv .VirtualEnvironment
-.\.VirtualEnvironment\Scripts\Activate.ps1
