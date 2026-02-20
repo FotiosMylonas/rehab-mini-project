@@ -1,4 +1,4 @@
-# Rehab Mini Project — IMU Step Counting & Movement Frequency
+# Rehab Mini Project — IMUs Step Counting & Movement Frequency
 
 Small Python mini-project demonstrating an end-to-end pipeline for wearable sensor processing relevant to home rehabilitation:
 
